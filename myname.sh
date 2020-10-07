@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello! My name is Saloni. My favorite desert is cake!"
+echo "Hello! My name is Saloni. My favorite dessert is cake!"
